@@ -1,0 +1,190 @@
+Country,Province_subdivion_en,Admin02_Code_Name,Admin 2 Name -HDX,ID_2,Admin02_Code_Abbr,P_Code,Admin03_Name,Total_Pop,Male_pop,Female_pop
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0004,Maalhos,434,235,199
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0287,Feridhoo,441,237,204
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0474,Bodufulhudhoo,608,311,297
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0132,Mathiveri,662,338,324
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0874,Himendhoo,724,389,335
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0916,Ukulhas,1005,534,471
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0257,Rasdhoo,1067,578,489
+MV,North Central,Alif Alif,Alif Uthuru Buri,ASIMDV004008,AA,LD0501,Thoddoo,1534,834,700
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0459,Dhidhdhoo,153,76,77
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0168,Mandhoo,367,223,144
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0771,Kuburudhoo,462,229,233
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD1023,Hangnameedhoo,517,271,246
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD1047,Dhigurah,610,322,288
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0273,Dhangethi,824,452,372
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0513,Fenfushi,837,463,374
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0009,Omadhoo,883,453,430
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0545,Mahibadhoo,2074,1126,948
+MV,North Central,Alif Dhaalu,Alif Dhekunu Buri,ASIMDV004020,ADh,LD0158,Maamigili,2359,1298,1061
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0520,Fehendhoo,107,54,53
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0044,Fulhaadhoo,187,102,85
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0363,Kihaadhoo,360,165,195
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0348,Dhonfanu,401,206,195
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0059,Kudarikilu,428,213,215
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0637,Maalhos,484,220,264
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0518,Kamadhoo,495,331,164
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0931,Goidhoo,543,276,267
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD1000,Hithaadhoo,705,324,381
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0844,Dharavandhoo,857,489,368
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0668,Kendhoo,870,457,413
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0677,Thulhaadhoo,1506,765,741
+MV,North,Baa,Baa Atoll,ASIMDV002007,B,LD0204,Eydhafushi,2658,1302,1356
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD0334,Rinbudhoo,277,148,129
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD0209,Maaenboodhoo,621,287,334
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD0662,Hulhudheli,719,364,355
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD0066,Bandidhoo,793,466,327
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD1050,Meedhoo,929,526,403
+MV,Central,Dhaalu,Dhaal Atoll,ASIMDV004012,Dh,LD0499,Kudahuvadhoo,2447,1228,1219
+MV,Central,Faafu,Faafu Atoll,ASIMDV004011,F,LD0970,Dharaboodhoo,400,208,192
+MV,Central,Faafu,Faafu Atoll,ASIMDV004011,F,LD0085,Magoodhoo,549,284,265
+MV,Central,Faafu,Faafu Atoll,ASIMDV004011,F,LD0008,Feeali,839,393,446
+MV,Central,Faafu,Faafu Atoll,ASIMDV004011,F,LD0606,Biledhdhoo,914,459,455
+MV,Central,Faafu,Faafu Atoll,ASIMDV004011,F,LD1158,Nilandhoo,1663,817,846
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD0435,Kondey,272,145,127
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD0856,Kanduhulhudhoo,533,261,272
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD0412,Dhevvadhoo,584,339,245
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD1091,Nilandhoo,600,359,241
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD0743,Kolamaafushi,958,566,392
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD0766,Dhaandhoo,1077,570,507
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD1085,Maamendhoo,1137,614,523
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD1182,Gemanafushi,1223,642,581
+MV,Upper South,Gaafu Alif,Gaaf Alif Atoll,ASIMDV005016,GA,LD1180,Villingili,2837,1630,1207
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0630,Rathafandhoo,550,302,248
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0195,Vaadhoo,712,379,333
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0470,Fiyoari,737,386,351
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0181,Nadellaa,776,401,375
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0851,Hoadedhdhoo,861,454,407
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0063,Fares Maathodaa,1104,600,504
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0557,Madaveli,1218,618,600
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0887,Gadhdhoo,1502,819,683
+MV,Upper South,Gaafu Dhaalu,Gaaf Dhaal Atoll,ASIMDV005017,GDh,LD0717,Thinadhoo,5230,2857,2373
+MV,South,Gnaviyani,Gnaviyani Atoll,ASIMDV005019,Gn,LD1489,Fuvahmulah ,8510,4085,4425
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0901,Molhadhoo ,230,108,122
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0984,Thakandhoo,354,155,199
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0488,Uligamu,383,181,202
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0915,Thurakunu,421,200,221
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0232,Vashafaru,449,212,237
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0701,Muraidhoo,467,205,262
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0507,Utheemu,569,241,328
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0993,Filladhoo,584,276,308
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0695,Maarandhoo,671,325,346
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0563,Kelaa,1074,485,589
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0987,Baarah,1215,586,629
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0246,Hoarafushi,1826,892,934
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0908,Ihavandhoo,2575,1284,1291
+MV,Upper North,Haa Alif,Haa Alif Atoll,ASIMDV001001,HA,LD0568,Dhidhdhoo,2854,1314,1540
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0199,Hirimaradhoo,335,165,170
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0441,Finey,409,188,221
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0710,Naivaadhoo,417,189,228
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0852,Kurinbi,463,225,238
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0686,Neykurendhoo,743,328,415
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0406,Vaikaradhoo,783,382,401
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0698,Nellaidhoo,859,382,477
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0541,Kumundhoo,886,395,491
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0416,Nolhivaranfaru,1081,504,577
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0699,Makunudhoo,1282,621,661
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0658,Nolhivaram,1892,856,1036
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0235,Hanimaadhoo,1951,1110,841
+MV,Upper North,Haa Dhaalu,Haa Dhaal Atoll,ASIMDV001002,HDh,LD0048,Kulhudhuffushi,8440,3965,4475
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0577,Gulhi,912,523,389
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0894,Dhiffushi,1053,548,505
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0873,Gaafaru,1066,569,497
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0683,Huraa,1300,758,542
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0745,Thulusdhoo,1408,811,597
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD1129,Himmafushi,1725,1241,484
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0738,Guraidhoo,1738,1015,723
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0665,Kaashidhoo,1865,960,905
+MV,North Central,Kaafu,Kaafu Atoll,ASIMDV004009,K,LD0069,Maafushi,3025,2140,885
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0261,Gaadhoo,178,85,93
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0102,Mundhoo,236,128,108
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD1473,Kalhaidhoo,579,289,290
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD1049,Dhabidhoo,647,345,302
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD1053,Maabaidhoo,649,343,306
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0323,Kunahandhoo,650,324,326
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0484,Maamendhoo,896,472,424
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD1070,Isdhoo,958,469,489
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0265,Hithadhoo,1007,523,484
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0938,Maavah,1530,803,727
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD1038,Fonadhoo,2266,1210,1056
+MV,Upper South,Laamu,Laamu Atoll,ASIMDV004015,L,LD0152,Gan ,3080,1657,1423
+MV,North,Lhaviyani,Lhaviyani Atoll,ASIMDV002005,Lh,LD0517,Olhuvelifushi,521,221,300
+MV,North,Lhaviyani,Lhaviyani Atoll,ASIMDV002005,Lh,LD0510,Kurendhoo,1259,636,623
+MV,North,Lhaviyani,Lhaviyani Atoll,ASIMDV002005,Lh,LD0340,Hinnavaru,2497,1100,1397
+MV,North,Lhaviyani,Lhaviyani Atoll,ASIMDV002005,Lh,LD0020,Naifaru,4103,2116,1987
+MV,Male,Male' City,Male' City,ASIMDV003021,MLE,,Male' City,153904,85438,68466
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0786,Raimandhoo,112,55,57
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD1167,Veyvah,263,160,103
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD1166,Maduvvari,369,202,167
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0793,Naalaafushi,424,216,208
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0061,Kolhufushi,735,358,377
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0554,Muli,860,441,419
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0179,Dhiggaru,984,459,525
+MV,Central,Meemu,Meemu Atoll,ASIMDV004013,M,LD0531,Mulah,1275,661,614
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0332,Fodhdhoo,228,110,118
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0907,Magoodhoo,255,125,130
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0391,Kudafari,453,226,227
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0962,Henbadhoo,491,187,304
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0500,Lhohi,615,313,302
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0191,Landhoo,665,292,373
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0203,Maalhendhoo,666,324,342
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0560,Maafaru,715,331,384
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD1068,Miladhoo,819,354,465
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0866,Kendhikolhudhoo,1326,592,734
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0392,Manadhoo,1397,697,700
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0455,Holhudhoo,1638,764,874
+MV,North,Noonu,Noonu Atoll,ASIMDV002004,N,LD0497,Velidhoo,1961,1088,873
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0924,Fainu,318,158,160
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0609,Vaadhoo,398,190,208
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0281,Angolhitheemu,403,201,202
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0194,Kinolhas,464,231,233
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0178,Rasgetheemu,509,237,272
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0423,Rasmaadhoo,516,266,250
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0564,Innamaadhoo,577,324,253
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0180,Maakurathu,798,393,405
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0600,Hulhudhuffaaru,1131,520,611
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD1121,Inguraidhoo,1209,586,623
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0573,Maduvvari,1449,744,705
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD1175,Ungoofaaru,1501,729,772
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0605,Meedhoo,1726,857,869
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0588,Alifushi,1804,939,865
+MV,North,Raa,Raa Atoll,ASIMDV002006,R,LD0790,Dhuvaafaru,3016,1448,1568
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD0081,Maradhoo Feydhoo,1228,590,638
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD0299,Hulhudhoo,1242,663,579
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD0272,Meedhoo,1871,950,921
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD0288,Maradhoo,2374,1267,1107
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD0947,Feydhoo,3431,1793,1638
+MV,South,Seenu,Seenu Atoll,ASIMDV005019,S,LD1004,Hithadhoo,11129,5712,5417
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0985,Noomaraa,348,161,187
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1144,Maroshi,439,195,244
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1064,Bilehffahi,484,236,248
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0551,Narudhoo,491,230,261
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0836,Goidhoo,515,240,275
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0978,Lhaimagu,597,298,299
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1149,Feevah,660,313,347
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1100,Feydhoo,741,335,406
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0016,Maaungoodhoo,802,372,430
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1092,Kanditheemu,1094,480,614
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD1058,Komandoo,1111,541,570
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0646,Foakaidhoo,1366,641,725
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0525,Milandhoo,1884,868,1016
+MV,Upper North,Shaviyani,Shaviyani Atoll,ASIMDV001003,Sh,LD0863,Funadhoo,2104,999,1105
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0427,Gaadhiffushi,268,139,129
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0859,Vandhoo,293,155,138
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0254,Buruni,350,175,175
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0504,Kandoodhoo,432,239,193
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0783,Omadhoo,458,253,205
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0200,Dhiyamigili,556,267,289
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0422,Kinbidhoo,768,371,397
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0627,Madifushi,801,391,410
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0350,Hirilandhoo,1039,579,460
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0205,Vilufushi,1103,572,531
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0694,Veymandoo,1118,573,545
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD0082,Thimarafushi,1190,627,563
+MV,Upper South,Thaa,Thaa Atoll,ASIMDV004014,Th,LD1163,Guraidhoo,1280,679,601
+MV,North Central,Vaavu,Vaavu Atoll,ASIMDV004010,V,LD0420,Rakeedhoo,106,70,36
+MV,North Central,Vaavu,Vaavu Atoll,ASIMDV004010,V,LD1079,Thinadhoo,152,128,24
+MV,North Central,Vaavu,Vaavu Atoll,ASIMDV004010,V,LD0182,Fulidhoo,372,219,153
+MV,North Central,Vaavu,Vaavu Atoll,ASIMDV004010,V,LD0075,Felidhoo,506,269,237
+MV,North Central,Vaavu,Vaavu Atoll,ASIMDV004010,V,LD0260,Keyodhoo,675,366,309
+,,,,,,,Non-administrative islands,36624,34037,2587
